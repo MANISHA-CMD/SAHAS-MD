@@ -21,7 +21,7 @@ const { File } = require('megajs')
 const prefix = config.PREFIX 
 const path = require('path');
 const asciiArt = ``;
-const ownerNumber = ['94718913389']
+const ownerNumber = ['94721551183']
 
 //--------------------| SAHAS-MD Sesion Output |--------------------//
 
@@ -247,7 +247,7 @@ if (isGroup && config.ANTI_BOT === "true") {
 
 //--------------------| SAHAS-MD Owner React |--------------------//
 
-        if(senderNumber.includes("94718913389")){
+        if(senderNumber.includes("94721551183")){
             if(isReact) return
             m.react("👨‍💻")
         }    
